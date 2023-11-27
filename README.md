@@ -1,4 +1,4 @@
-11296788
+![Screenshot 2023-11-27 140532](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/82487a9a-4604-485d-9c27-27f36dbc4587)11296788
 MARY ESINAM AHIKEDZI
 
 # University of Ghana Computer Science Website
@@ -81,6 +81,32 @@ Host the cloned website: If you want to make the cloned website accessible onlin
 It's important to note that cloning a website without permission is generally discouraged and may have legal and ethical implications. Always respect the intellectual property rights of others and seek proper authorization before reproducing or modifying someone else's work.
 
 ## Below are some ScreenShots of the each page on my website
+![Screenshot 2023-11-27 140532](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/d470a2d4-ff4b-4c81-af66-5d170674c682)
+![Screenshot 2023-11-27 144950](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/8209651d-15d1-4617-a1fb-e20f18e9e712)
+![Screenshot 2023-11-27 145135](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/4c7adb42-7b50-449c-925e-e640427b70f3)
+![Screenshot 2023-11-27 145216](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/d8289556-6230-4acb-9fa6-e5fc7a40d815)
+![Screenshot 2023-11-27 145324](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/c0a20e32-1b11-462a-9fe9-f45040cfd94c)
+
+![Screenshot 2023-11-27 145412](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/44cad0cd-5a3b-429a-917b-16d681c141a2)
+
+![Screenshot 2023-11-27 145841](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/d3858d02-36a8-4950-b656-9ca32c1d1540)
+
+![Screenshot 2023-11-27 150054](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/81f058e7-5f7d-4e33-816a-e7e78fd47e31)
+
+![Screenshot 2023-11-27 150533](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/7f1bd321-dfa9-4264-8fbc-5410274f582d)
+
+![Screenshot 2023-11-27 150628](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/447e98c0-0797-4545-a927-0289fa71af5b)
+
+![Screenshot 2023-11-27 150705](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/06dce6e7-8c90-430e-bb95-b0b684b9d01c)
+![Screenshot 2023-11-27 150837](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/09b90002-1f19-4e4b-9fa2-65fc8bb181d6)
+
+![Screenshot 2023-11-27 150930](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/d1558938-40bd-45c7-bbb8-1bd3d5f48420)
+![Screenshot 2023-11-27 150954](https://github.com/EsinamMary/11296788_DCIT205/assets![Screenshot 2023-11-27 151125](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/a48b6dad-bc41-4e59-a5c6-66324aa9fc60)
+/151060675/297cafa2-9d63-417d-83cf-94a9c9d263db)
+![Screenshot 2023-11-27 151215](https://github.com/EsinamM![Screenshot 2023-11-27 151548](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/c59b941a-47dc-4752-bd3c-909a138099be)
+ary/11296788_DCIT205/assets/151060675/09612c7e-50ba-4bff-b519-52638282814a)
+
+![Uploading Screenshot 2023-11-27 151548.png…]()
 
 ## What I learnt from this project
 
