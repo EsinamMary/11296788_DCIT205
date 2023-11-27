@@ -103,10 +103,11 @@ It's important to note that cloning a website without permission is generally di
 ![Screenshot 2023-11-27 150930](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/d1558938-40bd-45c7-bbb8-1bd3d5f48420)
 ![Screenshot 2023-11-27 150954](https://github.com/EsinamMary/11296788_DCIT205/assets![Screenshot 2023-11-27 151125](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/a48b6dad-bc41-4e59-a5c6-66324aa9fc60)
 /151060675/297cafa2-9d63-417d-83cf-94a9c9d263db)
-![Screenshot 2023-11-27 151215](https://github.com/EsinamM![Screenshot 2023-11-27 151548](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/c59b941a-47dc-4752-bd3c-909a138099be)
 ary/11296788_DCIT205/assets/151060675/09612c7e-50ba-4bff-b519-52638282814a)
 
-![Uploading Screenshot 2023-11-27 151548.png…]()
+![Screenshot 2023-11-27 151215](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/57fb8795-efc1-4d85-afe3-f04764582d47)
+
+![Screenshot 2023-11-27 151548](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/764fc51e-dad2-4cea-ab4d-6a8b4b79bf40)
 
 ## What I learnt from this project
 
