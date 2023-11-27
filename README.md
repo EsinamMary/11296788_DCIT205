@@ -1,9 +1,9 @@
-# DCIT_205_IA
-
 11296788
 MARY ESINAM AHIKEDZI
 
-# introduction And Purpose Of the website
+# University of Ghana Computer Science Website
+
+## introduction And Purpose Of the website
 
 Computer Science Department Website
 the website is a computer science department website for the university of ghana, legon.
@@ -58,7 +58,7 @@ Your input are key to me and look forward to hearing from you!
 
 Feel free to customize my README file according to your website's specific details. Ensure that you include the appropriate URLs, contact information, and any other relevant content. Good luck with your website.
 
-# there is no javascript included
+## there is no javascript included
 
 # HOW YOU CAN CLONE MY WEBSITE .
 
@@ -80,4 +80,4 @@ Host the cloned website: If you want to make the cloned website accessible onlin
 
 It's important to note that cloning a website without permission is generally discouraged and may have legal and ethical implications. Always respect the intellectual property rights of others and seek proper authorization before reproducing or modifying someone else's work.
 
-# Below are some ScreenShots of the each page on my website
+## Below are some ScreenShots of the each page on my website
