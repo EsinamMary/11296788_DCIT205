@@ -81,3 +81,19 @@ Host the cloned website: If you want to make the cloned website accessible onlin
 It's important to note that cloning a website without permission is generally discouraged and may have legal and ethical implications. Always respect the intellectual property rights of others and seek proper authorization before reproducing or modifying someone else's work.
 
 ## Below are some ScreenShots of the each page on my website
+
+## What I learnt from this project
+
+**Website Structure and Organization:** Developing a website with multiple pages teaches you the importance of planning and organizing content effectively. You'll learn how to structure the website's navigation, create logical page hierarchies, and ensure a seamless user experience.
+
+**Page Layout and Design:** Designing multiple pages allows you to explore different layouts, typography choices, color schemes, and visual elements. You'll gain insights into creating consistent branding across the website while maintaining a visually appealing and user-friendly design.
+
+**Content Creation and Management:** Creating content for each page helps you understand how to write engaging and informative copy that effectively communicates your message. You'll learn to optimize content for search engines, use appropriate headings and subheadings, and incorporate relevant media such as images or videos.
+
+**Responsive Web Design:** Building a multi-page website provides an opportunity to implement responsive design principles. You'll learn how to make your website adapt and display properly on various devices and screen sizes, ensuring a consistent experience for users regardless of the device they use to access your site.
+
+**Integration of Interactive Elements:** Developing multiple pages allows you to experiment with interactive elements like forms, image sliders, videos, or animations. You'll gain insights into incorporating these elements to enhance user engagement and create a more dynamic user experience.
+
+**Version Control and Collaboration:** If you work on the website with a team, you'll likely use version control systems like Git to manage changes and collaborate efficiently. This experience teaches you how to work collaboratively, resolve conflicts, and maintain a clean and organized codebase.
+
+**Time Management and Project Planning:** Creating a multi-page website requires meticulous planning and time management. You'll learn how to set realistic goals, manage deadlines, and allocate your time effectively to complete each page within the desired timeframe.
