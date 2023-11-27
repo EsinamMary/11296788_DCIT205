@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} 
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    color: rgb(235, 118, 41);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.logo {
+    width: 60px;
+    height: 60px;
+    margin-right: 5px;
+    margin-left: 20px;
+}
+.navbar {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: white;
+    color: orangered;
+    margin-right: 30px;
+    margin-bottom: 5px;
+}
+.navbar li {
+    float: left;
+}
+.navbar li a {
+    display:grid;
+    color: rgb(235, 118, 41);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: larger;
+}
+.navbar li a:hover {
+    background-color: gray;}
+    #events {
+        padding: 20px;
+        background-color: white;
+        text-align: center;
+    }
+    #events h2 {
+        font-size: 2em;
+        margin-bottom: 20px;
+        color: green;
+    }
+    .card-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 20px;
+        justify-items: center;
+    }
+    .card {
+        background-color: #fff;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 20px;
+        width: 100%;
+        max-width: 300px;
+        text-align: left;
+    }
+    .card h3 {
+        font-size: 1.6em;
+        margin-bottom: 10px;
+        color:rgb(235, 118, 41) ;
+    }
+    .card p {
+        font-size: 0.7em;
+        line-height: 1.6;
+    }
+    @media screen and (max-width: 600px) {
+        .navbar li {
+            float: none;
+        }
+    }

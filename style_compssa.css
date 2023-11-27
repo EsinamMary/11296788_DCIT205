@@ -1,0 +1,192 @@
+*{
+    margin: 30;
+    padding: 30;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} 
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    color: rgb(235, 118, 41);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.logo {
+    width: 60px;
+    height: 60px;
+    margin-right: 5px;
+    margin-left: 20px;
+}
+.navbar {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: white;
+    color: orangered;
+    margin-right: 30px;
+    margin-bottom: 5px;
+}
+.navbar li {
+    float: left;
+}
+.navbar li a {
+    display:grid;
+    color: rgb(235, 118, 41);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: larger;
+}
+.navbar li a:hover {
+    background-color: gray;
+}
+@media screen and (max-width: 600px) {
+    .navbar li {
+        float: none;
+    }
+}
+main {
+    padding: 20px;
+}
+
+.hero {
+    background-image: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url('projects/compssa\ hero.jpg');
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    margin-top: 1px;
+}
+.hero h2 {
+    font-size: 2em;
+}
+.hero p {
+    font-size: 1.2em;
+}
+.cta {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+}
+
+.cta:hover {
+    background-color: gray;
+}
+
+section {
+    margin-bottom: 40px;
+}
+.video-hero {
+    position: relative;
+    height: 500px;
+    color: black;
+    text-align: center;
+}
+
+.video-hero video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.hero-content {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+#about {
+    padding: 20px;
+    background-color: rgb(236, 100, 51);
+    color: white;
+}
+
+#about h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#about h3 {
+    font-size: 1.6em;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#about p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#about ul {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    list-style: none;
+    padding-left: 0;
+}
+
+#about ul li {
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#contact {
+    padding: 20px;
+    background-color:white;
+    text-align: center;
+    text-decoration: none;
+}
+
+#contact h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+#contact p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+a {
+    text-decoration: none;
+}
+
+
+.socials img {
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}

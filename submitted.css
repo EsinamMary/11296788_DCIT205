@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+}
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    font-size: xx-large;
+    color: rgb(235, 118, 41);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.logo {
+    width: 150px;
+    height: 150px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.navbar {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #333;
+}
+.navbar li {
+    float: left;
+}
+.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navbar li a:hover {
+    background-color: #111;
+}
+#submitted {
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+}
+#submitted h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: green;
+}
+#submitted .cta {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #008CBA;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+}
+#submitted .cta:hover {
+    background-color: #007B9A;
+}
+@media screen and (max-width: 600px) {
+    .navbar li {
+        float: none;
+    }}

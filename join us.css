@@ -1,0 +1,112 @@
+body {
+    font-family: Arial, sans-serif;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+} 
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    color: rgb(235, 118, 41);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.logo {
+    width: 60px;
+    height: 60px;
+    margin-right: 5px;
+    margin-left: 20px;
+}
+.navbar {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: white;
+    color: orangered;
+    margin-right: 30px;
+    margin-bottom: 5px;
+}
+.navbar li {
+    float: left;
+}
+.navbar li a {
+    display:grid;
+    color: rgb(235, 118, 41);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: larger;
+}
+.navbar li a:hover {
+    background-color: gray;
+}
+#join {
+    padding: 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+#join h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: rgb(235, 118, 41) ;
+}
+#join p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+#join form {
+    display: inline-block;
+    text-align: left;
+}
+#join label, #join input, #join select {
+    display: block;
+    margin-bottom: 10px;
+}
+#join input[type="text"], #join input[type="email"], #join input[type="date"] {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+#join input[type="text"]::placeholder, #join input[type="email"]::placeholder {
+    color: #888;
+}
+#join input[type="submit"] {
+    display: block;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.cta {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #008CBA;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.cta:hover {
+    background-color:rgb(151, 149, 149);
+    color:#007B9A ;
+}
+@media screen and (max-width: 600px) {
+    .navbar li {
+        float: none;
+    }
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
