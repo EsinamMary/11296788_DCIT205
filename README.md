@@ -1,4 +1,4 @@
-11296788
+![Screenshot 2023-11-27 140532](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/82487a9a-4604-485d-9c27-27f36dbc4587)11296788
 MARY ESINAM AHIKEDZI
 
 # University of Ghana Computer Science Website
@@ -81,9 +81,35 @@ Host the cloned website: If you want to make the cloned website accessible onlin
 It's important to note that cloning a website without permission is generally discouraged and may have legal and ethical implications. Always respect the intellectual property rights of others and seek proper authorization before reproducing or modifying someone else's work.
 
 ## Below are some ScreenShots of the each page on my website
+![Screenshot 2023-11-27 140532](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/d470a2d4-ff4b-4c81-af66-5d170674c682)
+![Screenshot 2023-11-27 144950](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/8209651d-15d1-4617-a1fb-e20f18e9e712)
+![Screenshot 2023-11-27 145135](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/4c7adb42-7b50-449c-925e-e640427b70f3)
+![Screenshot 2023-11-27 145216](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/d8289556-6230-4acb-9fa6-e5fc7a40d815)
+![Screenshot 2023-11-27 145324](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/c0a20e32-1b11-462a-9fe9-f45040cfd94c)
+
+![Screenshot 2023-11-27 145412](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/44cad0cd-5a3b-429a-917b-16d681c141a2)
+
+![Screenshot 2023-11-27 145841](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/d3858d02-36a8-4950-b656-9ca32c1d1540)
+
+![Screenshot 2023-11-27 150054](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/81f058e7-5f7d-4e33-816a-e7e78fd47e31)
+
+![Screenshot 2023-11-27 150533](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/7f1bd321-dfa9-4264-8fbc-5410274f582d)
+
+![Screenshot 2023-11-27 150628](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/447e98c0-0797-4545-a927-0289fa71af5b)
+
+![Screenshot 2023-11-27 150705](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/06dce6e7-8c90-430e-bb95-b0b684b9d01c)
+![Screenshot 2023-11-27 150837](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/09b90002-1f19-4e4b-9fa2-65fc8bb181d6)
+
+![Screenshot 2023-11-27 150930](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/d1558938-40bd-45c7-bbb8-1bd3d5f48420)
+![Screenshot 2023-11-27 151125](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/b97ac3cd-a125-4c76-9809-e0c4c471ec9d)
+
+![Screenshot 2023-11-27 151548](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/764fc51e-dad2-4cea-ab4d-6a8b4b79bf40)
+
+![alu1](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/c78661fb-1d23-4894-bd46-2ef952f399c2)
+
+![alu2](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/ed08a5ed-1bbd-494c-b556-375cb20c72a6)
 
 ## What I learnt from this project
-
 **Website Structure and Organization:** Developing a website with multiple pages teaches you the importance of planning and organizing content effectively. You'll learn how to structure the website's navigation, create logical page hierarchies, and ensure a seamless user experience.
 
 **Page Layout and Design:** Designing multiple pages allows you to explore different layouts, typography choices, color schemes, and visual elements. You'll gain insights into creating consistent branding across the website while maintaining a visually appealing and user-friendly design.
