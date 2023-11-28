@@ -60,9 +60,11 @@ Feel free to customize my README file according to your website's specific detai
 
 ## there is no javascript included
 
-# HOW YOU CAN CLONE MY WEBSITE .
+# HOW YOU CAN CLONE MY WEBSITE.
 
-1. Run `git clone https://github.com/EsinamMary/11296788_DCIT205.git` to clone the website
+1. Open my repository in Github and copy the url (https://github.com/EsinamMary/11296788_DCIT205.git) provided by HTTPS when you click the code button.
+2. Open VS Code and then open a new terminal.
+3. Type "git clone " followed by space then paste the url to look like this "git clone https://github.com/EsinamMary/11296788_DCIT205.git" and press enter .
 
 ## Below are some ScreenShots of the each page on my website
 
