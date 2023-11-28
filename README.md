@@ -103,13 +103,13 @@ It's important to note that cloning a website without permission is generally di
 ![Screenshot 2023-11-27 150930](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/d1558938-40bd-45c7-bbb8-1bd3d5f48420)
 ![Screenshot 2023-11-27 151125](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/b97ac3cd-a125-4c76-9809-e0c4c471ec9d)
 
-
-![Screenshot 2023-11-27 151215](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/57fb8795-efc1-4d85-afe3-f04764582d47)
-
 ![Screenshot 2023-11-27 151548](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/764fc51e-dad2-4cea-ab4d-6a8b4b79bf40)
 
-## What I learnt from this project
+![alu1](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/c78661fb-1d23-4894-bd46-2ef952f399c2)
 
+![alu2](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/ed08a5ed-1bbd-494c-b556-375cb20c72a6)
+
+## What I learnt from this project
 **Website Structure and Organization:** Developing a website with multiple pages teaches you the importance of planning and organizing content effectively. You'll learn how to structure the website's navigation, create logical page hierarchies, and ensure a seamless user experience.
 
 **Page Layout and Design:** Designing multiple pages allows you to explore different layouts, typography choices, color schemes, and visual elements. You'll gain insights into creating consistent branding across the website while maintaining a visually appealing and user-friendly design.
