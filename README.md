@@ -62,25 +62,10 @@ Feel free to customize my README file according to your website's specific detai
 
 # HOW YOU CAN CLONE MY WEBSITE .
 
-If you want to clone my website, you'll need to have access to the website's source code and files. Here's a general overview of the steps involved in cloning a website:
-
-Obtain permission: Ensure that you have the necessary permissions to clone the website. Copying someone else's website without permission may infringe on their intellectual property rights.
-
-Inspect the website: Use your web browser's developer tools (usually accessible by right-clicking on the webpage and selecting "Inspect" or "Inspect Element") to view the website's HTML, CSS, and JavaScript code. This will give you an idea of the website's structure and functionality.
-
-Download the source code: Save all the relevant HTML, CSS, and other files associated with the website. You can do this by manually downloading each file or by using specialized tools like website downloaders or scraping software. Keep the file structure intact to ensure that all dependencies are preserved.
-
-Set up a development environment: Create a local development environment on your computer where you can run and modify the cloned website.
-
-Adjust file paths: If the cloned website contains absolute file paths or references to external resources, you may need to update them to work correctly in the local environment. For example, if the original website references images using an absolute URL, you may need to update those URLs to reflect the local file paths.
-
-Test and make modifications: Launch the cloned website locally and test its functionality. You can make modifications to the code, content, or design as needed. Keep in mind that modifying someone else's website without permission may still be a violation of their rights.
-
-Host the cloned website: If you want to make the cloned website accessible online, you'll need to host it on a web server. You can choose a hosting provider and upload the website's files to the server. Be sure to comply with any legal or ethical requirements regarding the hosting of cloned websites.
-
-It's important to note that cloning a website without permission is generally discouraged and may have legal and ethical implications. Always respect the intellectual property rights of others and seek proper authorization before reproducing or modifying someone else's work.
+1. Run `git clone https://github.com/EsinamMary/11296788_DCIT205.git` to clone the website
 
 ## Below are some ScreenShots of the each page on my website
+
 ![Screenshot 2023-11-27 140532](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/d470a2d4-ff4b-4c81-af66-5d170674c682)
 ![Screenshot 2023-11-27 144950](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/8209651d-15d1-4617-a1fb-e20f18e9e712)
 ![Screenshot 2023-11-27 145135](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/4c7adb42-7b50-449c-925e-e640427b70f3)
@@ -110,6 +95,7 @@ It's important to note that cloning a website without permission is generally di
 ![alu2](https://github.com/EsinamMary/11296788_DCIT205/assets/151060675/ed08a5ed-1bbd-494c-b556-375cb20c72a6)
 
 ## What I learnt from this project
+
 **Website Structure and Organization:** Developing a website with multiple pages teaches you the importance of planning and organizing content effectively. You'll learn how to structure the website's navigation, create logical page hierarchies, and ensure a seamless user experience.
 
 **Page Layout and Design:** Designing multiple pages allows you to explore different layouts, typography choices, color schemes, and visual elements. You'll gain insights into creating consistent branding across the website while maintaining a visually appealing and user-friendly design.
